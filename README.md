@@ -1,4 +1,6 @@
-# FESTIVAL CONTROL · React Native + Expo Web
+# 05-FESTIVAL-CONTROL-AMPLIFY
+
+## FESTIVAL CONTROL · React Native + Expo Web
 
 Demo **frontend-only** para la charla de AWS Amplify. Mantiene la identidad visual del cuaderno 04-PILARES-SERVERLESS: fondo `#090909`, cards `#151515`, acento `#FF2F92`, confirmado `#39D98A` y retrasado `#F5C542`.
 
